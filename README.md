@@ -1,5 +1,5 @@
-# [Netflix-ReactJS](https://netflix-clone-sample.netlify.app/)
+# [Netflix-ReactJS]
 Netflix clone using React js 
-(Currently not Responsive design)
+//Currently not Responsive design//
 
-https://netflix-clone-sample.netlify.app/
+
